@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-ia-epson",
+  "version": "1.0.0",
+  "description": "Epson EPS plugin for Cordova",
+  "cordova": {
+    "id": "cordova-plugin-ia-epson",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolaasZA/cordova-plugin-ia-epson.git"
+  },
+  "keywords": [
+    "cordova",
+    "epson",
+    "epos",
+    "plugin"
+  ],
+  "author": "Nicolaas Pretorius",
+  "license": "MIT",
+  "homepage": "https://github.com/NicolaasZA/cordova-plugin-ia-epson#readme"
+}
