@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ia-epson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Epson EPOS plugin for Cordova",
   "author": "Nicolaas Pretorius",
   "license": "MIT",
@@ -12,12 +12,6 @@
       "ios"
     ]
   },
-  "keywords": [
-    "cordova",
-    "plugin",
-    "epson",
-    "epos"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NicolaasZA/cordova-plugin-ia-epson.git"
